@@ -1,3 +1,3 @@
 # TreinamentoGit
 
-- Ladeia
+- Ladeia - professor
