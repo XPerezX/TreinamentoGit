@@ -1,3 +1,5 @@
 # TreinamentoGit
 
 - Ladeia
+- Manuel
+- Emanuel
