@@ -1,3 +1,4 @@
 # TreinamentoGit
 
-- Fernando
+- Ladeia
+- O de cima é lindo - Fernando
